@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to your project directory
-cd /home/illy/aaProj/XAI_Vercel
+
 
 # Display directory structure
 echo "Directory Structure:"
